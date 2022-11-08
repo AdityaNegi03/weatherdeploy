@@ -3,11 +3,11 @@ import styled from "styled-components";
 import {WeatherIcons} from "../App";
 
 export const WeatherInfoIcons = {
-    sunset: "./weather_today/icons/temp.svg",
-    sunrise: "./weather_today/icons/temp.svg",
-    humidity: "./weather_today/icons/humidity.svg",
-    wind: "./weather_today/icons/wind.svg",
-    pressure: "./weather_today/icons/pressure.svg",
+    sunset: "./icons/temp.svg",
+    sunrise: "./icons/temp.svg",
+    humidity: "./icons/humidity.svg",
+    wind: "./icons/wind.svg",
+    pressure: "./icons/pressure.svg",
 };
 const Location = styled.span`
   margin: 15px auto;
