@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/AnshulNegi03/weatherdeploy/static/css/main.bb5aa681.css",
-    "main.js": "/AnshulNegi03/weatherdeploy/static/js/main.a4f8b127.js",
-    "static/media/wall.jpg": "/AnshulNegi03/weatherdeploy/static/media/wall.1ad4d9deb9dc00b1c33b.jpg",
-    "index.html": "/AnshulNegi03/weatherdeploy/index.html",
-    "main.bb5aa681.css.map": "/AnshulNegi03/weatherdeploy/static/css/main.bb5aa681.css.map",
-    "main.a4f8b127.js.map": "/AnshulNegi03/weatherdeploy/static/js/main.a4f8b127.js.map"
+    "main.css": "/.github.io/weatherdeploy/static/css/main.9523adf1.css",
+    "main.js": "/.github.io/weatherdeploy/static/js/main.1b387143.js",
+    "static/media/wall.jpg": "/.github.io/weatherdeploy/static/media/wall.1ad4d9deb9dc00b1c33b.jpg",
+    "index.html": "/.github.io/weatherdeploy/index.html",
+    "main.9523adf1.css.map": "/.github.io/weatherdeploy/static/css/main.9523adf1.css.map",
+    "main.1b387143.js.map": "/.github.io/weatherdeploy/static/js/main.1b387143.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb5aa681.css",
-    "static/js/main.a4f8b127.js"
+    "static/css/main.9523adf1.css",
+    "static/js/main.1b387143.js"
   ]
 }
